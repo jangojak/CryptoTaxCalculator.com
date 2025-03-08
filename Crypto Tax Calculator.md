@@ -63,7 +63,6 @@ Accurate calculation of capital gains tax Support for multiple
 cryptocurrency exchanges and wallets Integration with popular tax filing
 software Real-time updates to reflect changing tax laws and regulations
 
-https://youtube.com/watch?v=D9DUhr7FgzA
 
 A crypto tax calculator helps you use all tax savings and avoid
 penalties. With the right tool, you can handle cryptocurrency taxes
